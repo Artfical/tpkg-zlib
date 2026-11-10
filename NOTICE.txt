@@ -1,0 +1,6 @@
+zlib 1.2.11 for tOS
+====================
+
+lib/libz.so.1 is the zlib shared library from Ubuntu 22.04 (package zlib1g 1:1.2.11.dfsg-2ubuntu9.2),
+unmodified. License: the zlib license (LICENSE, Ubuntu's copyright file for it).
+Source: https://launchpad.net/ubuntu/+source/zlib/1:1.2.11.dfsg-2ubuntu9.2 (upstream: https://zlib.net).

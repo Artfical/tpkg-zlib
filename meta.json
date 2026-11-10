@@ -1,0 +1,19 @@
+{
+ "name": "zlib",
+ "version": "1.2.11",
+ "license": "zlib",
+ "homepage": "https://zlib.net",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [],
+ "desc": "zlib 1.2.11 compression library (libz.so.1; for curl and git, 64-bit tOS)",
+ "file": "zlib-1.2.11.tpkg",
+ "size": 58335,
+ "sha256": "7d257c6e8839719bd1e8071c67ba8a86f29e9f2b7da197603c0549180802f2c3",
+ "unpacked": 108936,
+ "min_build": 608,
+ "depends": [],
+ "commands": {}
+}
